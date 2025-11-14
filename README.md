@@ -65,16 +65,6 @@ Rule-based inference engine
 
 Console-based chat interface
 
-## 🤝 Contributing
-
-Pull requests are welcome!
-You can add:
-
-More device models
-
-More issue categories
-
-GUI using Tkinter / PyQt
 
 Voice input using Azure Speech SDK
 
