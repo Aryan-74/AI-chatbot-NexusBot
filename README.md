@@ -47,7 +47,7 @@ Welcomes users at startup
 
 Clean, user-friendly text flow and emoji-enhanced responses.
 
-🧠 How It Works
+## 🧠 How It Works
 
 User enters a problem (e.g., “my phone is not charging”)
 
@@ -55,7 +55,7 @@ Chatbot detects keywords and maps them to known issues
 
 If a category is detected, bot asks for specific sub-issue
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 
 Python 3
 
@@ -65,7 +65,7 @@ Rule-based inference engine
 
 Console-based chat interface
 
-🤝 Contributing
+## 🤝 Contributing
 
 Pull requests are welcome!
 You can add:
