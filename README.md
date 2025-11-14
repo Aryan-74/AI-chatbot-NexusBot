@@ -1,30 +1,30 @@
 # AI-chatbot-NexusBot
 
-📱 NexusTech Support Expert System (Python + PyDatalog)
+## 📱 NexusTech Support Expert System (Python + PyDatalog)
 
 A rule-based AI customer support chatbot built using PyDatalog, designed to diagnose and troubleshoot common smartphone issues such as battery problems, display issues, connectivity failures, audio faults, and more.
 The bot intelligently detects categories, sub-issues, and provides solutions based on a knowledge-base of device faults.
 
 ## 🚀 Features
-🔹 Intelligent Issue Detection
+-🔹 Intelligent Issue Detection
 
 Detects smartphone problems from user text (keywords & rule-based logic)
 
 Supports multiple categories:
 
-Battery
++Battery
 
-Display
++Display
 
-Connectivity
++Connectivity
 
-Performance
++Performance
 
-Camera
++Camera
 
-Audio
++Audio
 
-Software/OS
++Software/OS
 
 🔹 Guided Troubleshooting
 
