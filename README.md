@@ -6,25 +6,18 @@ A rule-based AI customer support chatbot built using PyDatalog, designed to diag
 The bot intelligently detects categories, sub-issues, and provides solutions based on a knowledge-base of device faults.
 
 ## 🚀 Features
--🔹 Intelligent Issue Detection
+🔹 Intelligent Issue Detection
 
 Detects smartphone problems from user text (keywords & rule-based logic)
 
 Supports multiple categories:
-
-+Battery
-
-+Display
-
-+Connectivity
-
-+Performance
-
-+Camera
-
-+Audio
-
-+Software/OS
+Battery
+Display
+Connectivity
+Performance
+Camera
+Audio
+Software/OS
 
 🔹 Guided Troubleshooting
 
